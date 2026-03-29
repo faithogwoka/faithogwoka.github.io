@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "Kemunto Faith Ogwoka"
 ---
-# Kemunto Faith Ogwoka
+# IT Officer | Cloud Security & Cybersecurity Specialist | DataScientist | CTF player
 
 ## 👩🏽‍💻 About Me
 BBIT graduate with hands-on IT Support experience, now diving into Cloud Security and Data Science. Passionate about securing systems, uncovering insights from data, and continuously learning to stay ahead in tech.
