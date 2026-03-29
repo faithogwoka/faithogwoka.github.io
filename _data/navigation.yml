@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: https://github.com/faithogwoka/faithogwoka.github.io/blob/master/index.md
+    url:https://github.com/faithogwoka/faithogwoka.github.io/blob/master/_pages/about.md
   - title: "Data Science"
     url: /data/
   - title: "Cloud Security"
