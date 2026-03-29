@@ -85,4 +85,4 @@ Jomo Kenyatta University of Agriculture and Technology (2018 – 2022)
 ---
 
 ## 📄 Download CV
-[Download My CV](./Faith_Ogwoka_CV.pdf)
+[Download My CV](https://drive.google.com/file/d/1UbS0LDRCFQdKncOxuK-JeQsdb427v6YG/view?usp=sharing)
