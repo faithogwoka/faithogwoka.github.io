@@ -5,7 +5,6 @@
 layout: single
 author_profile: true
 ---
-# Faith Kemunto Ogwoka
 
 ## 👩🏽‍💻 About Me
 BBIT graduate with hands-on IT Support experience, now diving into Cloud Security and Data Science. Passionate about securing systems, uncovering insights from data, and continuously learning to stay ahead in tech.
