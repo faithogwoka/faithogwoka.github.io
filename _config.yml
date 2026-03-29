@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Faith Ogwoka"
-  avatar : "/assets/images/Photo.jpeg.jpeg"
+  avatar : "/assets/images/Photo.jpeg"
   bio    : "Business Information Technology graduate with a solid foundation in IT Support, now focused on building expertise in Cloud Security and Data Science."
   links:
     - label: "Website"
