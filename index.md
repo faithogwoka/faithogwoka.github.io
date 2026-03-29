@@ -3,8 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title 1: "Kemunto Faith Ogwoka"
-title 2: "IT Officer | Cloud Security & Cybersecurity Specialist | DataScientist"
+title: "Kemunto Faith Ogwoka"
 author_profile: true
 ---
 ## 👩🏽‍💻 About Me
