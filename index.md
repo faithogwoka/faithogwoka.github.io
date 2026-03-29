@@ -79,7 +79,7 @@ Jomo Kenyatta University of Agriculture and Technology (2018 – 2022)
 ---
 
 ## 📫 Contact
-- 📧 Email: faithogwoka@gmail.com  
+- 📧 Email: faithogwoka@gmail.com   
 - 🔗 LinkedIn: http://www.linkedin.com/in/faith-ogwoka  
 
 ---
