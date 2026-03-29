@@ -3,12 +3,10 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "Kemunto Faith Ogwoka"
+title 1: "Kemunto Faith Ogwoka"
+title 2: "IT Officer | Cloud Security & Cybersecurity Specialist | DataScientist"
 author_profile: true
 ---
-
-## IT Officer | Cloud Security & Cybersecurity Specialist | DataScientist
-
 ## 👩🏽‍💻 About Me
 BBIT graduate with hands-on IT Support experience, now diving into Cloud Security and Data Science. Passionate about securing systems, uncovering insights from data, and continuously learning to stay ahead in tech.
 
