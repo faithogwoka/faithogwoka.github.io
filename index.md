@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 title: "Kemunto Faith Ogwoka"
-subtitle: "IT Professional| Cloud Security Specialist | Data Scientist"
+subtitle: "IT Professional | Cloud Security Specialist | Data Scientist"
 author_profile: true
 ---
 ## 👩🏽‍💻 About Me
