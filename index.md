@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 title: "Kemunto Faith Ogwoka"
-subtitle: "IT Professional | Cloud Security Specialist | Data Scientist"
 author_profile: true
 ---
+### IT Support | Cloud Security | Data Science Enthusiast
 ## 👩🏽‍💻 About Me
 BBIT graduate with hands-on IT Support experience, now diving into Cloud Security and Data Science. Passionate about securing systems, uncovering insights from data, and continuously learning to stay ahead in tech.
 
