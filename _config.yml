@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   IT Support | Cloud Security & Cybersecurity Specialist (Entry-Level) | Data Scientist| CTF player
 twitter_username: feithee
 github_username: faithogwoka
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
