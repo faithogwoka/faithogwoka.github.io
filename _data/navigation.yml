@@ -4,8 +4,7 @@ main:
   - title: "Data Science"
     url: /data/
   - title: "Cloud Security"
-    #url: https://github.com/faithogwoka/AZ-500-Labs
-    url: /cloud/
+    url: https://github.com/faithogwoka/AZ-500-Labs/tree/main/Lab-01-RBAC
   - title: "Tags"
     url: /tags/
   
