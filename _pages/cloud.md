@@ -21,6 +21,16 @@ These labs cover:
 ## 📂 Labs
 
 ### 🛡️ Lab 1: Microsoft Security Solutions
+## Overview
+This lab explores the capabilities of Microsoft Security Solutions, including Microsoft Defender services and how they provide threat protection across cloud and on-prem environments.
+
+---
+
+## Objective
+- Understand Microsoft Security solutions
+- Identify different Defender products
+- Learn how Microsoft protects identities, devices, and data
+  
 [View Lab 1](https://github.com/faithogwoka/SC900-Microsoft-Security-Labs/tree/main/Lab-01-%20CAPABILITIES%20OF%20MICROSOFT%20SECURITY%20SOLUTIONS)
 
 ---
