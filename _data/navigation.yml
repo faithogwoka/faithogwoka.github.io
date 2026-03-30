@@ -5,6 +5,8 @@ main:
     url: /data/
   - title: "Cloud Security"
     url: /cloud/
+  - title: "SC-900"
+    url: /sc900/
   - title: "Tags"
     url: /tags/
   
