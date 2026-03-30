@@ -1,7 +1,7 @@
 ---
 title: "Cloud Security"
 layout: categories
-permalink: //cloud//
+permalink: /cloud/
 author_profile: true
 ---
  
