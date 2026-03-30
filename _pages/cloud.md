@@ -6,11 +6,6 @@ author_profile: true
 ---
  
 ---
-title: "SC-900 Microsoft Security Labs"
-permalink: /sc900/
-layout: single
-author_profile: true
----
 
 ## 📘 SC-900 Microsoft Security, Compliance, and Identity Labs
 
