@@ -1,10 +1,8 @@
 ---
 title: "Cloud Security"
 layout: categories
-permalink: /Cloud Security/
+permalink: //cloud//
 author_profile: true
 ---
-- Lab 1.RBAC
  
-- 
 
